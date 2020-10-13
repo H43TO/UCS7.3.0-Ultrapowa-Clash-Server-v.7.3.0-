@@ -1,4 +1,4 @@
-# UCS7.3.0  Ultrapowa Clash Server v.7.3.0
+#          UCS  7.3.0  
    Ultrapowa Clash Server v. 7.3.0
 
 
@@ -23,7 +23,8 @@ Projects developed by the Ultrapowa Development Team include:
 
 
 ##License
-Ultrapowa Projects are proudly licensed! It is full license in 2019
+Ultrapowa Projects are proudly licensed! It is full license in 2020
 
 ```
-   Copyright 2017 Ultrapowa
+   Copyright 2017 Ultrapowa 
+                            ```
