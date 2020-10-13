@@ -1,5 +1,5 @@
-#          UCS  7.3.0  
-   Ultrapowa Clash Server v. 7.3.0
+#          UCS  7.3.1  
+   Ultrapowa Clash Server v. 7.3.1
 
 
 # Ultrpowa's Development Group Projects
