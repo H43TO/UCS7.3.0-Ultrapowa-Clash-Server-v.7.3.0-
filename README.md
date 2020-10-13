@@ -12,19 +12,23 @@ Projects developed by the Ultrapowa Development Team include:
 
 * Ultrapowa Clash Server   (UCS) 
 
-##Websites
+## Websites
 
 * [Ultrapowa - Home Page](http://ultrapowa.com/)
 * [Ultrapowa - Forum](http://ultrapowa.com/forum)
 
-##Apk Lnks
+## Disclaimer
+**UCS 7.3.1** is **NOT** affiliated with '_Supercell, Oy_'.  
+**UCS 7.3.1** does **NOT** own '_Clash of Clans_', '_Boom Beach_', '_Clash Royale_', and/or '_Hay Day_'.
+
+## Apk Links
 
 * [ Clash of Clans - Patched APK - v8.709.16 ] ( **I will edit this link util tomorrow! Please be patient!** )
 
 
-##License
+## License
 Ultrapowa Projects are proudly licensed! It is full license in 2020
 
 ```
    Copyright 2017 Ultrapowa 
-                            ```
+                            
