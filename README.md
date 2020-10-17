@@ -23,7 +23,7 @@ Projects developed by the Ultrapowa Development Team include:
 
 ## Apk Links
 
-* [ Clash of Clans - Patched APK - v8.709.16 ] ( **I will edit this link util tomorrow! Please be patient!** )
+* [ Clash of Clans - Patched APK - v8.709.16 ] ( **https://mega.nz/file/lxFE1bCL** ) (isn't modded)
 
 
 ## License
